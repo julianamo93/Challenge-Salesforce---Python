@@ -26,3 +26,4 @@
 - Instalação da biblioteca pygame.
 
 ## **--- Vídeo de Apresentação da Aplicação ---**
+https://www.youtube.com/watch?v=sVc3PEpg53U
